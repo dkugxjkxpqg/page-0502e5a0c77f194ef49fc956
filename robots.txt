@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.daifashop.cn/sitemap.xml
